@@ -1,0 +1,40 @@
+  # MAC OS
+# System files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+
+
+# LINUX
+# Temporary files
+*~
+*.swp
+
+
+
+# WINDOWS
+# image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Anacoda
+miniconda.sh
+
+## Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+
+# Unit test intermediate output folder
+unit_tests/**/output/**
+stable_projects/**/unit_tests/**/output
