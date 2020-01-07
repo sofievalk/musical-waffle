@@ -1,5 +1,5 @@
-# musical-waffle
-work on the nature and nurture with neuroscience
+# Projects 
 
+My work on the nature and nurture with neuroscience
 
-Code and more of published work
+Code and more. 
